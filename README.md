@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Morales Perez</h1>
-<h3 align="center">I'm an aspiring software engineer.</h3>
+<h3 align="center">aspiring software engineer.</h3>
 
 - 📫 How to reach me **victorperez604@yahoo.com**
 
